@@ -2395,10 +2395,18 @@ And elsewhere.
                            <l>In unjust means, for vengeance comes at last.</l>
                         </q>
                      </p>
-                     <figure>
-                        <pb facs="tcp:51150:22"/>
-                        <head>SOLON.</head>
-                     </figure>
+                     <p>That he was profuse and delicate, and more luxurious in his
+verses then beseemes a Philosopher, is attributed to his practi<g ref="char:EOLhyphen"/>sing
+Merchandise, such persons requiring more then ordinary
+<figure>
+                           <pb facs="tcp:51150:22"/>
+                           <head>SOLON.</head>
+                        </figure>
+                        <pb facs="tcp:51150:23"/>
+                        <pb n="31" facs="tcp:51150:23"/>
+delicacies and freedomes in recompense of their many and great
+dangers. That he was rather in the number of the poor then of
+the rich, is apparent from these his verses.</p>
                      <q>
                         <l>Many unjust grow rich, and pious poor,</l>
                         <l>We would not change our virtue for their store.</l>
@@ -20520,7 +20528,10 @@ Bodies, the other Soules.</hi>
 and <hi>Glauco,</hi> and a Daughter <hi>Potone,</hi> Mother to <hi>Speusippus:</hi> These
 relations of <hi>Plato</hi> will be more conspicuous in this Genealogicall
 Table.</p>
-                     <figure/>
+                     <p>
+                        <pb n="3" facs="tcp:51150:174"/>
+                        <figure/>
+                     </p>
                      <p>For the Year of his Birth, (to omit the mistakes of <hi>Eusebius,</hi>
 who placeth it in the fourth year of the eightie eight Olympiad,
 in the Archonship of <hi>Stratocles,</hi> and of the <hi>Chronicon Alexan<g ref="char:EOLhyphen"/>drinum,</hi>
@@ -20588,7 +20599,10 @@ ninth of <hi>Iune,</hi> in the year of the Julian period, 4286.</p>
 Astrologers do not agree; for<note n="b" place="margin">Astron.</note> 
                         <hi>Iulius Firmicus</hi> hath erected the
 Scheme of his Nativity after this manner.</p>
-                     <figure/>
+                     <p>
+                        <pb n="5" facs="tcp:51150:175"/>
+                        <figure/>
+                     </p>
                      <p>
                         <hi>If the Ascendent</hi> saith he <hi>shall be <gap reason="foreign">
                               <desc>〈 in non-Latin alphabet 〉</desc>
@@ -37278,9 +37292,12 @@ answer'd, Were it not a shame, since <hi>Manes</hi> doth not need <hi>Dioge<g re
 that <hi>Diogenes</hi> should need <hi>Manes.</hi> The fellow wandring up
 and down came at last to <hi>Delphi,</hi> where he was torn in pieces by
 doggs.</p>
-                     <figure>
-                        <p>DIOGENES.</p>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:51150:322"/>
+                        <figure>
+                           <p>DIOGENES.</p>
+                        </figure>
+                     </p>
                   </div>
                   <div n="2" type="chapter">
                      <pb facs="tcp:51150:323"/>
